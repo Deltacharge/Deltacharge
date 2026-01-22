@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, I'm Jatin</h1>
 <h3 align="center">Cybersecurity | AI-ML | WebDev | B.Tech CSE </h3>
 
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
