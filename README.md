@@ -1,11 +1,13 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Jatin</h1>
+<h2 align="center">Certified Ethical Hacker | Servicenow CAD | AWS Solutions Architect Associate </h2>
 <h3 align="center">Cybersecurity | AI-ML | WebDev | B.Tech CSE </h3>
+
 
 ---
 
 ## 🚀 About Me
-- 🎓 **B.Tech CSE (3rd Year)**  
+- 🎓 **B.Tech CSE (Final Year)**
 - 🔐 Passionate about **Cybersecurity, Malware Analysis & Secure Systems**
 - 💻 Skilled in **Web Development & Backend Automation**
 - 🧠 Currently preparing for **CEH & advanced security roles**
